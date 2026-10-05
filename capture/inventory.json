@@ -1,0 +1,337 @@
+{
+  "source": "https://www.theapplepi.org",
+  "crawled": "2026-10-05",
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Home",
+      "menu_label": "Home",
+      "source": "index.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1382,
+      "converted_text_chars": 1380
+    },
+    {
+      "slug": "general-meetings",
+      "title": "General Meetings",
+      "menu_label": "General Meetings",
+      "source": "general-meetings.html",
+      "in_primary_menu": true,
+      "original_text_chars": 10399,
+      "converted_text_chars": 10079
+    },
+    {
+      "slug": "clubhouse-saturday",
+      "title": "Clubhouse Saturday",
+      "menu_label": "Clubhouse Saturday",
+      "source": "clubhouse-saturday.html",
+      "in_primary_menu": true,
+      "original_text_chars": 962,
+      "converted_text_chars": 894
+    },
+    {
+      "slug": "thursday-learners",
+      "title": "Thursday Learners",
+      "menu_label": "Thursday Learners",
+      "source": "thursday-learners.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1005,
+      "converted_text_chars": 1005
+    },
+    {
+      "slug": "special-interest-groups",
+      "title": "Special Interest Groups",
+      "menu_label": "Special Interest Groups",
+      "source": "special-interest-groups.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1431,
+      "converted_text_chars": 1428
+    },
+    {
+      "slug": "rump-saturdays",
+      "title": "RUMP Saturdays",
+      "menu_label": "RUMP Saturdays",
+      "source": "rump-saturdays.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1103,
+      "converted_text_chars": 1103
+    },
+    {
+      "slug": "using-join-it",
+      "title": "Using Join It",
+      "menu_label": "Using Join It",
+      "source": "using-join-it.html",
+      "in_primary_menu": true,
+      "original_text_chars": 4044,
+      "converted_text_chars": 4038
+    },
+    {
+      "slug": "using-groupsio",
+      "title": "Using groups.io",
+      "menu_label": "Using groups.io",
+      "source": "using-groupsio.html",
+      "in_primary_menu": true,
+      "original_text_chars": 5570,
+      "converted_text_chars": 5563
+    },
+    {
+      "slug": "outreachpartners",
+      "title": "Outreach/Partners",
+      "menu_label": "Outreach/Partners",
+      "source": "outreachpartners.html",
+      "in_primary_menu": true,
+      "original_text_chars": 2566,
+      "converted_text_chars": 2565
+    },
+    {
+      "slug": "resistreuserecycle",
+      "title": "Resist/Reuse/Recycle",
+      "menu_label": "Resist/Reuse/Recycle",
+      "source": "resistreuserecycle.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1711,
+      "converted_text_chars": 1711
+    },
+    {
+      "slug": "join-the-pi",
+      "title": "Join the Pi",
+      "menu_label": "Join the Pi",
+      "source": "join-the-pi.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1497,
+      "converted_text_chars": 1497
+    },
+    {
+      "slug": "members-only",
+      "title": "Members only!",
+      "menu_label": "Members only!",
+      "source": "members-only.html",
+      "in_primary_menu": true,
+      "original_text_chars": 1454,
+      "converted_text_chars": 1453
+    },
+    {
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "menu_label": "Contact Us",
+      "source": "contact-us.html",
+      "in_primary_menu": true,
+      "original_text_chars": 420,
+      "converted_text_chars": 378
+    },
+    {
+      "slug": "the-pi-board",
+      "title": "The Pi Board",
+      "menu_label": "The Pi Board",
+      "source": "the-pi-board.html",
+      "in_primary_menu": true,
+      "original_text_chars": 697,
+      "converted_text_chars": 659
+    },
+    {
+      "slug": "why-join-the-pi",
+      "title": "Why Join the Pi",
+      "menu_label": "Why Join the Pi",
+      "source": "why-join-the-pi.html",
+      "in_primary_menu": false,
+      "original_text_chars": 4669,
+      "converted_text_chars": 4662
+    },
+    {
+      "slug": "why-join-groupsio",
+      "title": "Why Join groups.io",
+      "menu_label": "Why Join groups.io",
+      "source": "why-join-groupsio.html",
+      "in_primary_menu": false,
+      "original_text_chars": 3104,
+      "converted_text_chars": 3101
+    },
+    {
+      "slug": "patience",
+      "title": "Patience!",
+      "menu_label": "Patience!",
+      "source": "patience.html",
+      "in_primary_menu": false,
+      "original_text_chars": 46,
+      "converted_text_chars": 46
+    },
+    {
+      "slug": "using-archives",
+      "title": "Using Archives",
+      "menu_label": "Using Archives",
+      "source": "using-archives.html",
+      "in_primary_menu": false,
+      "original_text_chars": 175,
+      "converted_text_chars": 172
+    },
+    {
+      "slug": "volunteer",
+      "title": "Volunteer",
+      "menu_label": "Volunteer",
+      "source": "volunteer.html",
+      "in_primary_menu": false,
+      "original_text_chars": 1088,
+      "converted_text_chars": 1087
+    },
+    {
+      "slug": "to-do",
+      "title": "To-Do",
+      "menu_label": "To-Do",
+      "source": "to-do.html",
+      "in_primary_menu": false,
+      "original_text_chars": 212,
+      "converted_text_chars": 212
+    },
+    {
+      "slug": "blog",
+      "title": "Blog",
+      "menu_label": "Blog",
+      "source": "blog.html",
+      "in_primary_menu": true,
+      "original_text_chars": 0,
+      "converted_text_chars": 0
+    }
+  ],
+  "posts": [
+    {
+      "slug": "gift-from-the-pi-on-pi-day",
+      "title": "Gift From the Pi on Pi Day",
+      "date": "2026-03-14",
+      "comment_status": "open",
+      "comments": 2,
+      "source": "blog/gift-from-the-pi-on-pi-day.html"
+    },
+    {
+      "slug": "recap-of-the-august-23-2025-pi-general-meeting",
+      "title": "Recap of the August 23, 2025 Pi General Meeting",
+      "date": "2025-09-14",
+      "comment_status": "open",
+      "comments": 0,
+      "source": "blog/recap-of-the-august-23-2025-pi-general-meeting.html"
+    },
+    {
+      "slug": "recap-of-the-july-2025-pi-meeting",
+      "title": "Recap of the July 2025 Pi Meeting",
+      "date": "2025-09-06",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/recap-of-the-july-2025-pi-meeting.html"
+    },
+    {
+      "slug": "40-years-ago-july-1985",
+      "title": "40 Years Ago - July 1985",
+      "date": "2025-07-10",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/40-years-ago-july-1985.html"
+    },
+    {
+      "slug": "recap-of-pi-june-2025-general-meeting",
+      "title": "Recap: 6/28/25 General Meeting -\u00a0From Skeptic to Strategist:\u200bHow AI is Reshaping Education, Work, and Life",
+      "date": "2025-06-28",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/recap-of-pi-june-2025-general-meeting.html"
+    },
+    {
+      "slug": "april-26-general-meeting-recap-trends-in-local-frauds-scams",
+      "title": "Recap: 4/26/25 General Meeting - Trends in Local Frauds & Scams",
+      "date": "2025-04-28",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/april-26-general-meeting-recap-trends-in-local-frauds-scams.html"
+    },
+    {
+      "slug": "march-22-general-meeting-recap-more-about-photos-photofunia-and-image-playground",
+      "title": "Recap: 3/22/25 General Meeting - More about Photos - Photofunia and Image Playground",
+      "date": "2025-04-06",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/march-22-general-meeting-recap-more-about-photos-photofunia-and-image-playground.html"
+    },
+    {
+      "slug": "recap-92824-meeting",
+      "title": "Recap: 8/24/24 General Meeting",
+      "date": "2024-08-24",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/recap-92824-meeting.html"
+    },
+    {
+      "slug": "welcome",
+      "title": "Welcome",
+      "date": "2024-07-01",
+      "comment_status": "closed",
+      "comments": 0,
+      "source": "blog/welcome.html"
+    }
+  ],
+  "media_count": 65,
+  "media": [
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/macbook-1-67_6.jpg?1688047283",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/september-2026-aaron-davis_orig.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/september-2026-aaron-davis_1.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-august-2026-gm_1.jpg?1787424636",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/july2026-gm-jeff-lanza_1.jpg?1785177468",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/edna-reid-june-2026-new-format-revised_1.png?1784928205",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/may-2026-gm.jpg?1781463233",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/april-2026-gm_1.png?1778961768",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/march-2026-gm_1.jpg?1777495239",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/amy-burk-feb-2026-hi-res_1.jpg?1775402344",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/backups-january-2026-upscaled_1.jpg?1769362250",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/dan-hoffman-nov-2025_1.png?1763932801",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/david-pogue-october-2025_1.jpg?1763922946",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/2025-09-27-aaron-davis_1.jpg?1758996443",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/craig-jobbins-august-2025-security-hi-res.png?1758913510",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/chatgpt-prof-nowzari-hi-res_1.png?1757273674",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/annika-hallquist-june-2025-ai-reshaping-education_1.png?1751575892",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/rob-pegoraro-may-2025_1.png?1750533085",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/lou-levy-april-2025-frauds-scams.png?1745691168",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/march-2025-gm-more-about-photos-photofunia-and-image-playground_1.png?1742395962",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/larry-kerschberg-feb-2025_1.jpg?1740079811",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/jasmine-singh-jan-2025_1.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/november-2024-gm-intro-to-the-pi-for-nca-mug-member_1.jpg?1733434356",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/jennifer-wilcox-advancing-technology-oct-2024_1.jpg?1731254825",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/sarah-al-ahmed-august-2024_1.jpg?1725026416",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/gabe-g-and-janani-p-july-2024_1.jpg?1722184304",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/rob-pegoraro-june-2024.jpg?1769363349",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/ginny-bixby-may-2024.jpg?1769363510",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/jim-mclean-april-2024.png?1714421304",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/drones-are-everywhere-roy-shrout-march-2024_2.png?1711227529",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/sharing-the-burden-jennifer-wilcox-feb-2023_1.jpg?1710618906",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/video-editing-from-soup-to-nuts-january-2024.jpg?1707772560",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/andy-ihnatko-november-2023_1.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/carrie-kerskie-october-2023_1.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/aaron-davis-september-2023_3.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/apple-event-logo_1.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/joe-kissel-august-2023-1-copy.png?1695498166",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/phil-shapiro.png?1690382729",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/rob-pegoraro-june-2023_6.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/david-pogue-may-2023_17.png?1686856270",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/katehowells500.jpg?1686856737",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/demariophippssmith_3.jpg?1686853056",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/shira-ovide-january-2023-sm.jpg?1686853456",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/jim-mclean-november-2022.jpg?1691785044",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/garyrosenzweig-october2022sm.jpeg?1686854786",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/applewatchultra.jpg?1707844571",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/podcastsandshortcuts.jpg?1686855343",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/pi-alsig-logo_orig.jpeg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/groupsio-icon_2.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/hands-1939895-1280_orig.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/nature-3289812-1280_orig.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/chain-4049725-1280.jpg?1694720570",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-circular-logo-with-new-website.png?1741716080",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/2021-02-26_pi_bylaws_final_version.pdf",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/grasshopper.jpg?1684441486",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/handshake-3962172-1280_orig.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/amy-burk-feb-2026-hi-res_orig.jpg",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-blog-40-years-ago-this-month-july-1985-page-1-hi.png?1752241440",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-blog-40-years-ago-this-month-july-1985-page-2-hi.png?1752241521",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/untitled_orig.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/pi-day-release-for-2026_orig.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/img-0739.png?1743957498",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/aug-meeting-recap-blog-image-orig_orig.png",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/june-26-screenshot.png?1751809329",
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/screenshot-202025-07-27-20at-203-22-56-e2-80-afpm.png?1757184691"
+  ]
+}

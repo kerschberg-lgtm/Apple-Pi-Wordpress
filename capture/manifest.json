@@ -1,0 +1,999 @@
+{
+  "pages": {
+    "https://www.theapplepi.org/": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/",
+      "title": "THE PI - Home",
+      "file": "html/index.html",
+      "bytes": 41680
+    },
+    "https://www.theapplepi.org/index.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/index.html",
+      "title": "THE PI - Home",
+      "file": "html/index.html",
+      "bytes": 41680
+    },
+    "https://www.theapplepi.org/why-join-groupsio.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/why-join-groupsio.html",
+      "title": "Why Join groups.io - THE PI",
+      "file": "html/why-join-groupsio.html",
+      "bytes": 40596
+    },
+    "https://www.theapplepi.org/clubhouse-saturday.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/clubhouse-saturday.html",
+      "title": "Clubhouse Saturday - THE PI",
+      "file": "html/clubhouse-saturday.html",
+      "bytes": 38939
+    },
+    "https://www.theapplepi.org/blog.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog",
+      "title": "THE PI - Blog",
+      "file": "html/blog.html",
+      "bytes": 74469
+    },
+    "https://www.theapplepi.org/using-archives.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/using-archives.html",
+      "title": "Using Archives - THE PI",
+      "file": "html/using-archives.html",
+      "bytes": 36651
+    },
+    "https://www.theapplepi.org/why-join-the-pi.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/why-join-the-pi.html",
+      "title": "Why Join the Pi - THE PI",
+      "file": "html/why-join-the-pi.html",
+      "bytes": 44424
+    },
+    "https://www.theapplepi.org/using-groupsio.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/using-groupsio.html",
+      "title": "Using groups.io - THE PI",
+      "file": "html/using-groupsio.html",
+      "bytes": 52757
+    },
+    "https://www.theapplepi.org/resistreuserecycle.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/resistreuserecycle.html",
+      "title": "Resist/Reuse/Recycle - THE PI",
+      "file": "html/resistreuserecycle.html",
+      "bytes": 39496
+    },
+    "https://www.theapplepi.org/using-join-it.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/using-join-it.html",
+      "title": "Using Join It - THE PI",
+      "file": "html/using-join-it.html",
+      "bytes": 51346
+    },
+    "https://www.theapplepi.org/special-interest-groups.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/special-interest-groups.html",
+      "title": "Special Interest Groups - THE PI",
+      "file": "html/special-interest-groups.html",
+      "bytes": 38254
+    },
+    "https://www.theapplepi.org/contact-us.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/contact-us.html",
+      "title": "Contact Us - THE PI",
+      "file": "html/contact-us.html",
+      "bytes": 45004
+    },
+    "https://www.theapplepi.org/join-the-pi.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/join-the-pi.html",
+      "title": "Join the Pi - THE PI",
+      "file": "html/join-the-pi.html",
+      "bytes": 43243
+    },
+    "https://www.theapplepi.org/thursday-learners.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/thursday-learners.html",
+      "title": "Thursday Learners - THE PI",
+      "file": "html/thursday-learners.html",
+      "bytes": 39019
+    },
+    "https://www.theapplepi.org/general-meetings.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/general-meetings.html",
+      "title": "General Meetings - THE PI",
+      "file": "html/general-meetings.html",
+      "bytes": 99946
+    },
+    "https://www.theapplepi.org/to-do.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/to-do.html",
+      "title": "To-Do - THE PI",
+      "file": "html/to-do.html",
+      "bytes": 37508
+    },
+    "https://www.theapplepi.org/the-pi-board.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/the-pi-board.html",
+      "title": "The Pi Board - THE PI",
+      "file": "html/the-pi-board.html",
+      "bytes": 38482
+    },
+    "https://www.theapplepi.org/rump-saturdays.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/rump-saturdays.html",
+      "title": "RUMP Saturdays - THE PI",
+      "file": "html/rump-saturdays.html",
+      "bytes": 38201
+    },
+    "https://www.theapplepi.org/outreachpartners.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/outreachpartners.html",
+      "title": "Outreach/Partners - THE PI",
+      "file": "html/outreachpartners.html",
+      "bytes": 41524
+    },
+    "https://www.theapplepi.org/patience.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/patience.html",
+      "title": "Patience! - THE PI",
+      "file": "html/patience.html",
+      "bytes": 36906
+    },
+    "https://www.theapplepi.org/members-only.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/members-only.html",
+      "title": "Members only! - THE PI",
+      "file": "html/members-only.html",
+      "bytes": 39190
+    },
+    "https://www.theapplepi.org/volunteer.html": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/volunteer.html",
+      "title": "Volunteer - THE PI",
+      "file": "html/volunteer.html",
+      "bytes": 38647
+    },
+    "https://www.theapplepi.org/blog/welcome": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/welcome",
+      "title": "Welcome - THE PI",
+      "file": "html/blog/welcome.html",
+      "bytes": 42824
+    },
+    "https://www.theapplepi.org/blog/recap-92824-meeting": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/recap-92824-meeting",
+      "title": "Recap: 8/24/24 General Meeting - THE PI",
+      "file": "html/blog/recap-92824-meeting.html",
+      "bytes": 42214
+    },
+    "https://www.theapplepi.org/blog/march-22-general-meeting-recap-more-about-photos-photofunia-and-image-playground": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/march-22-general-meeting-recap-more-about-photos-photofunia-and-image-playground",
+      "title": "Recap: 3/22/25 General Meeting - More about Photos - Photofunia and Image Playground - THE PI",
+      "file": "html/blog/march-22-general-meeting-recap-more-about-photos-photofunia-and-image-playground.html",
+      "bytes": 43881
+    },
+    "https://www.theapplepi.org/blog/april-26-general-meeting-recap-trends-in-local-frauds-scams": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/april-26-general-meeting-recap-trends-in-local-frauds-scams",
+      "title": "Recap: 4/26/25 General Meeting - Trends in Local Frauds & Scams - THE PI",
+      "file": "html/blog/april-26-general-meeting-recap-trends-in-local-frauds-scams.html",
+      "bytes": 44926
+    },
+    "https://www.theapplepi.org/blog/recap-of-pi-june-2025-general-meeting": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/recap-of-pi-june-2025-general-meeting",
+      "title": "Recap: 6/28/25 General Meeting -\u00a0From Skeptic to Strategist:\u200bHow AI is Reshaping Education, Work, and Life - THE PI",
+      "file": "html/blog/recap-of-pi-june-2025-general-meeting.html",
+      "bytes": 43057
+    },
+    "https://www.theapplepi.org/blog/40-years-ago-july-1985": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/40-years-ago-july-1985",
+      "title": "40 Years Ago - July 1985 - THE PI",
+      "file": "html/blog/40-years-ago-july-1985.html",
+      "bytes": 43230
+    },
+    "https://www.theapplepi.org/blog/recap-of-the-july-2025-pi-meeting": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/recap-of-the-july-2025-pi-meeting",
+      "title": "Recap of the July 2025 Pi Meeting - THE PI",
+      "file": "html/blog/recap-of-the-july-2025-pi-meeting.html",
+      "bytes": 44300
+    },
+    "https://www.theapplepi.org/blog/recap-of-the-august-23-2025-pi-general-meeting": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/recap-of-the-august-23-2025-pi-general-meeting",
+      "title": "Recap of the August 23, 2025 Pi General Meeting - THE PI",
+      "file": "html/blog/recap-of-the-august-23-2025-pi-general-meeting.html",
+      "bytes": 50984
+    },
+    "https://www.theapplepi.org/blog/gift-from-the-pi-on-pi-day": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/gift-from-the-pi-on-pi-day",
+      "title": "Gift From the Pi on Pi Day - THE PI",
+      "file": "html/blog/gift-from-the-pi-on-pi-day.html",
+      "bytes": 44819
+    },
+    "https://www.theapplepi.org/cdn-cgi/l/email-protection": {
+      "status": 404,
+      "final_url": "https://www.theapplepi.org/cdn-cgi/l/email-protection",
+      "title": "Email Protection | Cloudflare",
+      "file": "html/cdn-cgi/l/email-protection.html",
+      "bytes": 4715
+    },
+    "https://www.theapplepi.org/contact.html": {
+      "status": 404,
+      "final_url": "https://www.theapplepi.org/contact.html",
+      "title": "404 - Page Not Found",
+      "file": "html/contact.html",
+      "bytes": 3802
+    },
+    "https://www.theapplepi.org/blog/archives/03-2026": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/03-2026",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/03-2026.html",
+      "bytes": 40895
+    },
+    "https://www.theapplepi.org/blog/archives/09-2025": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/09-2025",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/09-2025.html",
+      "bytes": 54165
+    },
+    "https://www.theapplepi.org/blog/archives/07-2025": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/07-2025",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/07-2025.html",
+      "bytes": 42870
+    },
+    "https://www.theapplepi.org/blog/archives/06-2025": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/06-2025",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/06-2025.html",
+      "bytes": 42512
+    },
+    "https://www.theapplepi.org/blog/archives/04-2025": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/04-2025",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/04-2025.html",
+      "bytes": 48043
+    },
+    "https://www.theapplepi.org/blog/archives/08-2024": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/08-2024",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/08-2024.html",
+      "bytes": 41845
+    },
+    "https://www.theapplepi.org/blog/archives/07-2024": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/archives/07-2024",
+      "title": "Blog Archives - THE PI",
+      "file": "html/blog/archives/07-2024.html",
+      "bytes": 42513
+    },
+    "https://www.theapplepi.org/blog/category/all": {
+      "status": 200,
+      "final_url": "https://www.theapplepi.org/blog/category/all",
+      "title": "All Categories - THE PI",
+      "file": "html/blog/category/all.html",
+      "bytes": 74490
+    }
+  },
+  "assets": {
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/washapplepilogo-horizontal-color.jpg?1784561434": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/washapplepilogo-horizontal-color.jpg_e47341fd",
+      "bytes": 5748,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/macbook-1-67_6.jpg?1688047283": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/macbook-1-67_6.jpg_93e50c6e",
+      "bytes": 44384,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/september-2026-aaron-davis_orig.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/september-2026-aaron-davis_orig.jpg",
+      "bytes": 102258,
+      "content_type": "image/jpeg"
+    },
+    "https://cdn11.editmysite.com/css/sites.css?buildtime=1790090493": {
+      "status": 200,
+      "local": "assets/css/sites.css_ccdf78c8",
+      "bytes": 210877,
+      "content_type": "text/css"
+    },
+    "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1790090493": {
+      "status": 200,
+      "local": "assets/css/old/fancybox.css_ccdf78c8",
+      "bytes": 3911,
+      "content_type": "text/css"
+    },
+    "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1790090493": {
+      "status": 200,
+      "local": "assets/css/social-icons.css_ccdf78c8",
+      "bytes": 12720,
+      "content_type": "text/css"
+    },
+    "https://www.theapplepi.org/files/main_style.css?1790094399": {
+      "status": 200,
+      "local": "assets/files/main_style.css_edf8895e",
+      "bytes": 23419,
+      "content_type": "text/css"
+    },
+    "https://cdn2.editmysite.com/fonts/Maven_Pro/font.css?2": {
+      "status": 200,
+      "local": "assets/fonts/Maven_Pro/font.css_c81e728d",
+      "bytes": 850,
+      "content_type": "text/css"
+    },
+    "https://cdn2.editmysite.com/fonts/Playfair_Display/font.css?2": {
+      "status": 200,
+      "local": "assets/fonts/Playfair_Display/font.css_c81e728d",
+      "bytes": 1754,
+      "content_type": "text/css"
+    },
+    "https://cdn2.editmysite.com/fonts/Roboto/font.css?2": {
+      "status": 200,
+      "local": "assets/fonts/Roboto/font.css_c81e728d",
+      "bytes": 2584,
+      "content_type": "text/css"
+    },
+    "https://cdn2.editmysite.com/css/site_membership.css?buildtime=1790090493": {
+      "status": 200,
+      "local": "assets/css/site_membership.css_ccdf78c8",
+      "bytes": 74137,
+      "content_type": "text/css"
+    },
+    "https://cdn2.editmysite.com/css/site_membership.css?buildtime=1790099373": {
+      "status": 200,
+      "local": "assets/css/site_membership.css_52387850",
+      "bytes": 74137,
+      "content_type": "text/css"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/tree-house-2254979-1280.jpg?1694895474": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/tree-house-2254979-1280.jpg_24cfe78e",
+      "bytes": 80689,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/pi-day-release-for-2026_orig.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/pi-day-release-for-2026_orig.png",
+      "bytes": 1519374,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/screenshot-2025-09-14-at-2-57-00-pm_orig.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/screenshot-2025-09-14-at-2-57-00-pm_orig.png",
+      "bytes": 379222,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/screenshot-202025-07-27-20at-203-22-56-e2-80-afpm.png?1757184691": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/screenshot-202025-07-27-20at-203-22-56-e2-80-afpm.png_a2ecdeca",
+      "bytes": 137765,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-blog-40-years-ago-this-month-july-1985-page-1-hi.png?1752241440": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/pi-blog-40-years-ago-this-month-july-1985-page-1-hi.png_8b270994",
+      "bytes": 546353,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-blog-40-years-ago-this-month-july-1985-page-2-hi.png?1752241521": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/pi-blog-40-years-ago-this-month-july-1985-page-2-hi.png_aa024176",
+      "bytes": 351455,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/june-26-screenshot.png?1751809329": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/june-26-screenshot.png_948962fa",
+      "bytes": 195940,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/untitled_orig.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/untitled_orig.png",
+      "bytes": 39315,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/screenshot-2025-03-22-at-4-55-10-pm_orig.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/screenshot-2025-03-22-at-4-55-10-pm_orig.png",
+      "bytes": 319204,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/img-0739.png?1743957498": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/img-0739.png_7e33cdc6",
+      "bytes": 13442,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/aug-meeting-recap-blog-image-orig_orig.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/aug-meeting-recap-blog-image-orig_orig.png",
+      "bytes": 288242,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/groupsio-icon_2.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/groupsio-icon_2.png",
+      "bytes": 3594,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/nature-3289812-1280_orig.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/nature-3289812-1280_orig.jpg",
+      "bytes": 144705,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-circular-logo-with-new-website.png?1741716080": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/pi-circular-logo-with-new-website.png_7e4bc843",
+      "bytes": 253232,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/chain-4049725-1280.jpg?1694720570": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/chain-4049725-1280.jpg_175b4d7f",
+      "bytes": 6793,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/pi-alsig-logo_orig.jpeg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/pi-alsig-logo_orig.jpeg",
+      "bytes": 39483,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/september-2026-aaron-davis_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/september-2026-aaron-davis_1.jpg",
+      "bytes": 102258,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/pi-august-2026-gm_1.jpg?1787424636": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/pi-august-2026-gm_1.jpg_d8a20019",
+      "bytes": 27684,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/july2026-gm-jeff-lanza_1.jpg?1785177468": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/july2026-gm-jeff-lanza_1.jpg_77bb1e05",
+      "bytes": 32058,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/edna-reid-june-2026-new-format-revised_1.png?1784928205": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/edna-reid-june-2026-new-format-revised_1.png_76bc4fa3",
+      "bytes": 76518,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/may-2026-gm.jpg?1781463233": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/may-2026-gm.jpg_1433d31c",
+      "bytes": 53603,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/april-2026-gm_1.png?1778961768": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/april-2026-gm_1.png_7a64cd9a",
+      "bytes": 122897,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/march-2026-gm_1.jpg?1777495239": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/march-2026-gm_1.jpg_bc1a049d",
+      "bytes": 27236,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/amy-burk-feb-2026-hi-res_1.jpg?1775402344": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/amy-burk-feb-2026-hi-res_1.jpg_25b787c8",
+      "bytes": 29375,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/backups-january-2026-upscaled_1.jpg?1769362250": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/backups-january-2026-upscaled_1.jpg_20c06886",
+      "bytes": 37342,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/dan-hoffman-nov-2025_1.png?1763932801": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/dan-hoffman-nov-2025_1.png_7b16eba9",
+      "bytes": 108328,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/david-pogue-october-2025_1.jpg?1763922946": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/david-pogue-october-2025_1.jpg_e823ed52",
+      "bytes": 26169,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/2025-09-27-aaron-davis_1.jpg?1758996443": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/2025-09-27-aaron-davis_1.jpg_24d343d6",
+      "bytes": 21224,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/craig-jobbins-august-2025-security-hi-res.png?1758913510": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/craig-jobbins-august-2025-security-hi-res.png_6f70b043",
+      "bytes": 106723,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/chatgpt-prof-nowzari-hi-res_1.png?1757273674": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/chatgpt-prof-nowzari-hi-res_1.png_34e0a852",
+      "bytes": 118828,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/annika-hallquist-june-2025-ai-reshaping-education_1.png?1751575892": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/annika-hallquist-june-2025-ai-reshaping-education_1.png_8d40e139",
+      "bytes": 109624,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/rob-pegoraro-may-2025_1.png?1750533085": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/rob-pegoraro-may-2025_1.png_372b0a88",
+      "bytes": 106672,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/lou-levy-april-2025-frauds-scams.png?1745691168": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/lou-levy-april-2025-frauds-scams.png_339a13e2",
+      "bytes": 74228,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/march-2025-gm-more-about-photos-photofunia-and-image-playground_1.png?1742395962": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/march-2025-gm-more-about-photos-photofunia-and-image-playground_1.png_0be09f09",
+      "bytes": 170578,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/larry-kerschberg-feb-2025_1.jpg?1740079811": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/larry-kerschberg-feb-2025_1.jpg_6f6e4a98",
+      "bytes": 28603,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/jasmine-singh-jan-2025_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/jasmine-singh-jan-2025_1.jpg",
+      "bytes": 40011,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/november-2024-gm-intro-to-the-pi-for-nca-mug-member_1.jpg?1733434356": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/november-2024-gm-intro-to-the-pi-for-nca-mug-member_1.jpg_84d86a00",
+      "bytes": 33762,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/jennifer-wilcox-advancing-technology-oct-2024_1.jpg?1731254825": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/jennifer-wilcox-advancing-technology-oct-2024_1.jpg_08a54bac",
+      "bytes": 29328,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/aaron-davis-september-2024_2.jpg?250": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/aaron-davis-september-2024_2.jpg_6c9882bb",
+      "bytes": 31612,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/sarah-al-ahmed-august-2024_1.jpg?1725026416": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/sarah-al-ahmed-august-2024_1.jpg_8fea47fb",
+      "bytes": 33996,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/gabe-g-and-janani-p-july-2024_1.jpg?1722184304": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/gabe-g-and-janani-p-july-2024_1.jpg_fa9f70c7",
+      "bytes": 34306,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/rob-pegoraro-june-2024.jpg?1769363349": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/rob-pegoraro-june-2024.jpg_48e85f50",
+      "bytes": 33433,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/ginny-bixby-may-2024.jpg?1769363510": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/ginny-bixby-may-2024.jpg_9e8bd8bf",
+      "bytes": 38363,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/jim-mclean-april-2024.png?1714421304": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/jim-mclean-april-2024.png_2bb42223",
+      "bytes": 140795,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/drones-are-everywhere-roy-shrout-march-2024_2.png?1711227529": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/drones-are-everywhere-roy-shrout-march-2024_2.png_c46f66c2",
+      "bytes": 82317,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/sharing-the-burden-jennifer-wilcox-feb-2023_1.jpg?1710618906": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/sharing-the-burden-jennifer-wilcox-feb-2023_1.jpg_febe004c",
+      "bytes": 32266,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/enigma-sm.jpeg?1718550798": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/enigma-sm.jpeg_5148c1c9",
+      "bytes": 73577,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/video-editing-from-soup-to-nuts-january-2024.jpg?1707772560": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/video-editing-from-soup-to-nuts-january-2024.jpg_9a86ca47",
+      "bytes": 31244,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/andy-ihnatko-november-2023_1.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/andy-ihnatko-november-2023_1.png",
+      "bytes": 124635,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/carrie-kerskie-october-2023_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/carrie-kerskie-october-2023_1.jpg",
+      "bytes": 147082,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/aaron-davis-september-2023_3.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/aaron-davis-september-2023_3.png",
+      "bytes": 94649,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/apple-event-logo_1.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/apple-event-logo_1.png",
+      "bytes": 44318,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/joe-kissel-august-2023-1-copy.png?1695498166": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/joe-kissel-august-2023-1-copy.png_f95439f2",
+      "bytes": 129271,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/phil-shapiro.png?1690382729": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/phil-shapiro.png_373520e1",
+      "bytes": 134945,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/rob-pegoraro-june-2023_6.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/rob-pegoraro-june-2023_6.png",
+      "bytes": 125039,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/david-pogue-may-2023_17.png?1686856270": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/david-pogue-may-2023_17.png_878c6ff7",
+      "bytes": 144206,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/katehowells500.jpg?1686856737": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/katehowells500.jpg_eefae11b",
+      "bytes": 47297,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/demariophippssmith_3.jpg?1686853056": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/demariophippssmith_3.jpg_9346b29b",
+      "bytes": 48959,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/shira-ovide-january-2023-sm.jpg?1686853456": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/shira-ovide-january-2023-sm.jpg_3b8a4a42",
+      "bytes": 56433,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/jim-mclean-november-2022.jpg?1691785044": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/jim-mclean-november-2022.jpg_acc756c0",
+      "bytes": 46550,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/garyrosenzweig-october2022sm.jpeg?1686854786": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/garyrosenzweig-october2022sm.jpeg_1acba3dc",
+      "bytes": 62657,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/applewatchultra.jpg?1707844571": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/applewatchultra.jpg_7945b624",
+      "bytes": 31325,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/editor/podcastsandshortcuts.jpg?1686855343": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/editor/podcastsandshortcuts.jpg_1a418496",
+      "bytes": 34473,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/amy-burk-feb-2026-hi-res_orig.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/amy-burk-feb-2026-hi-res_orig.jpg",
+      "bytes": 143432,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/hands-1939895-1280_orig.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/hands-1939895-1280_orig.png",
+      "bytes": 1358262,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/published/grasshopper.jpg?1684441486": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/published/grasshopper.jpg_a2b26c7b",
+      "bytes": 28138,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/handshake-3962172-1280_orig.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/handshake-3962172-1280_orig.jpg",
+      "bytes": 127279,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/september_2026_aaron_davis.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/september_2026_aaron_davis.jpg",
+      "bytes": 706604,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/cdn-cgi/styles/cf.errors.css": {
+      "status": 200,
+      "local": "assets/cdn-cgi/styles/cf.errors.css",
+      "bytes": 24051,
+      "content_type": "text/css"
+    },
+    "https://www.theapplepi.org/3/feed": {
+      "status": 200,
+      "local": "assets/3/feed",
+      "bytes": 37292,
+      "content_type": "text/xml; charset=UTF-8"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/september_2026_aaron_davis_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/september_2026_aaron_davis_1.jpg",
+      "bytes": 706604,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/pi_august_2026_gm_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/pi_august_2026_gm_1.jpg",
+      "bytes": 1774717,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/july2026_gm_jeff_lanza_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/july2026_gm_jeff_lanza_1.jpg",
+      "bytes": 2417947,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/edna_reid_june_2026_new_format_revised_1.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/edna_reid_june_2026_new_format_revised_1.png",
+      "bytes": 5452865,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/may_2026_gm.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/may_2026_gm.jpg",
+      "bytes": 2840780,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/april_2026_gm.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/april_2026_gm.png",
+      "bytes": 2529122,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/march_2026_gm_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/march_2026_gm_1.jpg",
+      "bytes": 2601643,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/amy_burk_feb_2026_hi_res_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/amy_burk_feb_2026_hi_res_1.jpg",
+      "bytes": 3068635,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/backups_january_2026_upscaled_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/backups_january_2026_upscaled_1.jpg",
+      "bytes": 3714930,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/dan_hoffman_nov_2026.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/dan_hoffman_nov_2026.png",
+      "bytes": 1215509,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/david_pogue_october_2025.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/david_pogue_october_2025.jpg",
+      "bytes": 307487,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/2025-09-27_aaron_davis_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/2025-09-27_aaron_davis_1.jpg",
+      "bytes": 342933,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/chatgpt___prof_nowzari_hi_res_1.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/chatgpt___prof_nowzari_hi_res_1.png",
+      "bytes": 17929561,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/annika_hallquist_june_2025_ai_reshaping_education_1.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/annika_hallquist_june_2025_ai_reshaping_education_1.png",
+      "bytes": 7231758,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/rob_pegoraro_may_2025.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/rob_pegoraro_may_2025.png",
+      "bytes": 6093177,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/lou_levy_april_2025_frauds___scams.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/lou_levy_april_2025_frauds___scams.png",
+      "bytes": 7241536,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/march_2025_gm_more_about_photos_photofunia_and_image_playground_1.png": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/march_2025_gm_more_about_photos_photofunia_and_image_playground_1.png",
+      "bytes": 2280753,
+      "content_type": "image/png"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/larry_kerschberg_feb_2026.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/larry_kerschberg_feb_2026.jpg",
+      "bytes": 1650156,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/jasmine_singh_jan_2026.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/jasmine_singh_jan_2026.jpg",
+      "bytes": 16502028,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/november_2024_gm_intro_to_the_pi_for_nca-mug_member_1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/november_2024_gm_intro_to_the_pi_for_nca-mug_member_1.jpg",
+      "bytes": 1491863,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/jennifer_wilcox_advancing_technologyoct_2024__1.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/jennifer_wilcox_advancing_technologyoct_2024__1.jpg",
+      "bytes": 1218586,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/aaron_davis_september_2026.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/aaron_davis_september_2026.jpg",
+      "bytes": 1306302,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/sarah_al-ahmed_august_2025.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/sarah_al-ahmed_august_2025.jpg",
+      "bytes": 1796238,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/gabe_g_and_janani_p_july_2024.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/gabe_g_and_janani_p_july_2024.jpg",
+      "bytes": 1447362,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/rob_pegoraro_-_june_2024.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/rob_pegoraro_-_june_2024.jpg",
+      "bytes": 1534973,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/ginny_bixby_may_2024.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/ginny_bixby_may_2024.jpg",
+      "bytes": 1273303,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/amy_burk_feb_2026_hi_res.jpg": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/amy_burk_feb_2026_hi_res.jpg",
+      "bytes": 3068635,
+      "content_type": "image/jpeg"
+    },
+    "https://www.theapplepi.org/uploads/1/4/5/6/145684944/2021-02-26_pi_bylaws_final_version.pdf": {
+      "status": 200,
+      "local": "assets/uploads/1/4/5/6/145684944/2021-02-26_pi_bylaws_final_version.pdf",
+      "bytes": 156860,
+      "content_type": "application/pdf"
+    }
+  },
+  "skipped": [
+    {
+      "url": "https://www.theapplepi.org/newsletter.html",
+      "reason": "robots or policy"
+    }
+  ],
+  "external": [
+    "http://applepi.groups.io/g/main",
+    "http://applepi.groups.io/register",
+    "http://groups.io/login",
+    "http://macmost.com",
+    "http://wap.org",
+    "https://advancement.gmu.edu/24CECPI",
+    "https://app.joinit.com/o/thepi/jAFaQn6EwguxYAEkL",
+    "https://applepi.groups.io/g/main",
+    "https://applepi.groups.io/g/main/calendar",
+    "https://applepi.groups.io/g/main/files/Presentations",
+    "https://applepi.groups.io/g/main/topics",
+    "https://applepi.groups.io/register",
+    "https://beard.fm/bio",
+    "https://developers.cloudflare.com/fundamentals/setup/account/create-account/",
+    "https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/",
+    "https://twitter.com/Pi_org",
+    "https://wap.org/",
+    "https://wap.org/events/",
+    "https://wap.org/journal/showcase/",
+    "https://www.cloudflare.com/5xx-error-landing",
+    "https://www.cloudflare.com/sign-up?utm_source=email_protection",
+    "https://www.facebook.com/washingtonapplepi",
+    "https://www.lmug.org.uk/",
+    "https://www.macrecycleclinic.org/site/about-2/",
+    "https://www.nsa.gov/museum/",
+    "https://www.takecontrolbooks.com/",
+    "https://www.youtube.com/@WashingtonApplePi",
+    "https://www.youtube.com/@WashingtonApplePi/streams",
+    "https://www.youtube.com/live/-jMs87WmKbg?si=77uToaYgSZ6Ex0fy&t=468&fbclid=IwZXh0bgNhZW0CMTAAAR3uDkNu9etA53ToOTk45SWUgK529fIrAXlabeRJGp3RdpYDMe1jJxt1uOs_aem_SAcTYei98DxWeT48D4oEAg",
+    "https://www.youtube.com/playlist?list=PLo9UIQUVv00YWpkQMqwlbuQZ33O7CELCz",
+    "https://www.youtube.com/playlist?list=PLo9UIQUVv00akRawyb_Dxq6CsFdTTTGT6",
+    "https://www.youtube.com/watch?v=2dWLSx0FZSk",
+    "https://www.youtube.com/watch?v=tgQ1PtkZvGU",
+    "https://www.youtube.com/watch?v=txGxfMkOs8U",
+    "https://www.youtube.com/watch?v=zuLU-DEVrjU",
+    "https://youtu.be/cvwcthFTBEM",
+    "https://youtube.com/live/1YKJHcOpWk8",
+    "https://youtube.com/live/gpF2VrLg51Q"
+  ]
+}
