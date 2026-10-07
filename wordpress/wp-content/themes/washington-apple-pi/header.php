@@ -13,6 +13,10 @@
 </head>
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
+<div class="wap-eval-banner" role="note">
+	This is a WordPress evaluation preview of the Washington Apple Pi site, not the official site.
+	<a href="https://www.theapplepi.org">Go to the official site</a>.
+</div>
 <header class="site-header">
 	<div class="site-header-inner">
 		<div class="site-branding">

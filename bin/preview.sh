@@ -76,6 +76,14 @@ if [ -z "$LOGO_ID" ] || [ "$LOGO_ID" = "0" ]; then
   "${DC[@]}" run --rm wpcli wp theme mod set custom_logo "$LOGO"
 fi
 
+# The WordPress installer adds sample content that is not part of the Pi site.
+for slug in hello-world sample-page privacy-policy; do
+  SAMPLE_ID="$("${DC[@]}" run --rm wpcli wp post list --post_type=any --name="$slug" --field=ID)"
+  if [ -n "$SAMPLE_ID" ]; then
+    "${DC[@]}" run --rm wpcli wp post delete "$SAMPLE_ID" --force >/dev/null
+  fi
+done
+
 echo
 echo "Preview is ready: http://localhost:8080"
 echo "Admin: http://localhost:8080/wp-admin  (user pi-admin, password pi-preview)"

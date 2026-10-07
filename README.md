@@ -1,6 +1,8 @@
 # Washington Apple Pi — WordPress evaluation
 
-This repository is a local evaluation copy of the public Washington Apple Pi website, [theapplepi.org](https://www.theapplepi.org). The club is Washington Apple Pi, also called the Pi. Nothing here is deployed or published. The board can use it to look at a possible move from the current site (the pages are served by Weebly) to WordPress.
+This repository is an evaluation copy of the public Washington Apple Pi website, [theapplepi.org](https://www.theapplepi.org). The club is Washington Apple Pi, also called the Pi. A static preview of the WordPress build is published for the board to look at. It is not the official site.
+
+The static preview is at [https://kerschberg-lgtm.github.io/Apple-Pi-Wordpress/](https://kerschberg-lgtm.github.io/Apple-Pi-Wordpress/). Every page says so and links back to the official site.
 
 The wording, menus, and pictures come from the public site. This copy does not add new pages, a new name, or a new logo.
 
@@ -15,6 +17,8 @@ The wording, menus, and pictures come from the public site. This copy does not a
 | `wordpress/import/load-local.php` | Loads the WXR into the local preview from the captured files. |
 | `wordpress/import/remap-media.php` | After a normal WXR import, points page images at the media library instead of the live site. |
 | `docker-compose.yml` and `bin/preview.sh` | Local WordPress and database. One command installs WordPress and loads the content. |
+| `docs/` | Static HTML export served by GitHub Pages. |
+| `bin/export-static.sh` | Rebuilds `docs/` from the local preview. |
 | `scripts/build_wxr.py` | Rebuilds the WXR from `capture/html` if the capture is refreshed. |
 
 ## Preview it locally
@@ -32,7 +36,7 @@ The local admin is [http://localhost:8080/wp-admin](http://localhost:8080/wp-adm
 - User: `pi-admin`
 - Password: `pi-preview`
 
-Those credentials exist only in this local evaluation copy. The script does not publish the site (search engines are discouraged with `blog_public = 0`).
+Those credentials are local-only. They are the login for the Docker preview on your own machine. They are not a login for the GitHub Pages preview, and they are not a login for the official site. The local script also asks search engines not to index the Docker copy (`blog_public = 0`).
 
 The first run copies the captured images and the bylaws PDF into the media library. That can take a minute. Later runs reuse the database volume and skip the import. The preview does not need to reach the live site.
 
@@ -43,6 +47,22 @@ docker compose down
 ```
 
 `docker compose down -v` also deletes the local database and uploaded media.
+
+## Static preview on GitHub Pages
+
+`docs/` is a static copy of the local WordPress site. Links and images use the project path `/Apple-Pi-Wordpress/`, which is what GitHub Pages uses for this repository:
+
+[https://kerschberg-lgtm.github.io/Apple-Pi-Wordpress/](https://kerschberg-lgtm.github.io/Apple-Pi-Wordpress/)
+
+A banner on every page says this is a WordPress evaluation preview, not the official site, and links to [https://www.theapplepi.org](https://www.theapplepi.org). The contact form is disabled and does not send email.
+
+To regenerate the export after the local preview is running:
+
+```bash
+./bin/export-static.sh
+```
+
+GitHub Actions publishes `docs/` when changes land on `main`.
 
 ### If Docker cannot reach the database by hostname
 

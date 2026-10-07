@@ -49,3 +49,25 @@ function wap_editor_fonts() {
 	);
 }
 add_action( 'enqueue_block_editor_assets', 'wap_editor_fonts' );
+
+/**
+ * The contact form is only a picture of the fields. It does not send mail.
+ */
+function wap_mark_contact_form( $content ) {
+	if ( false === strpos( $content, 'wap-contact-form' ) ) {
+		return $content;
+	}
+	$note = '<p class="wap-form-disabled" role="note"><strong>This form does not send email.</strong> It is part of the evaluation preview and is not connected to Washington Apple Pi. Nothing typed here is delivered.</p>';
+	$content = str_replace(
+		'<form class="wap-contact-form"',
+		$note . '<form class="wap-contact-form"',
+		$content
+	);
+	$content = str_replace(
+		'<button type="button">Submit</button>',
+		'<button type="button" disabled>Submit</button>',
+		$content
+	);
+	return $content;
+}
+add_filter( 'the_content', 'wap_mark_contact_form', 20 );
