@@ -1,0 +1,25 @@
+Sitemap: https://www.theapplepi.org/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /site-survey.html
+Disallow: /meet-with-us.html
+Disallow: /test-page.html
+Disallow: /for-members.html
+Disallow: /https://twitter.com/wap_org
+Disallow: /on-social-media.html
+Disallow: /blog-test.html
+Disallow: /4/
+Disallow: /blog-test/
+Disallow: /blog-test
+Disallow: /the-pi-scholarship.html
+Disallow: /home-draft.html
+Disallow: /home-draft-2.html
+Disallow: /newsletter.html

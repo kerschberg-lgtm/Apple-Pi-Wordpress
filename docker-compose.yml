@@ -1,0 +1,60 @@
+# WordPress and WP-CLI share the database container's network namespace
+# and talk to MySQL on 127.0.0.1. Some locked-down Docker setups drop
+# traffic between bridge containers, which blocks the usual "db" hostname.
+services:
+  db:
+    image: mysql:8.0
+    ports:
+      - "8080:80"
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wordpress
+      MYSQL_ROOT_PASSWORD: wordpress
+    volumes:
+      - db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-uroot", "-pwordpress"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+      start_period: 20s
+
+  wordpress:
+    image: wordpress:6.8-php8.3-apache
+    network_mode: "service:db"
+    environment:
+      WORDPRESS_DB_HOST: 127.0.0.1:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wordpress
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_MEMORY_LIMIT', '256M');
+    volumes:
+      - wp_data:/var/www/html
+      - ./wordpress/wp-content/themes/washington-apple-pi:/var/www/html/wp-content/themes/washington-apple-pi
+    depends_on:
+      db:
+        condition: service_healthy
+
+  wpcli:
+    image: wordpress:cli-php8.3
+    user: "33:33"
+    network_mode: "service:db"
+    environment:
+      WORDPRESS_DB_HOST: 127.0.0.1:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wordpress
+      WORDPRESS_DB_NAME: wordpress
+    volumes:
+      - wp_data:/var/www/html
+      - ./wordpress/wp-content/themes/washington-apple-pi:/var/www/html/wp-content/themes/washington-apple-pi
+      - ./wordpress/import:/import:ro
+      - ./capture:/capture:ro
+    depends_on:
+      wordpress:
+        condition: service_started
+
+volumes:
+  db_data:
+  wp_data:
